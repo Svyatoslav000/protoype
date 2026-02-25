@@ -1,0 +1,8 @@
+streamlit
+biopython
+python-docx
+scipy
+numpy
+pandas
+langchain
+langchain-community
